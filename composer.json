@@ -2,7 +2,7 @@
     "name": "haqii/convert_text_vn",
     "description": "the first composer package hoang created",
     "type": "php",
-    "license": "123456",
+    "license": "MIT",
     "authors": [
         {
             "name": "hoang",
