@@ -1,6 +1,6 @@
 {
     "name": "haqii/convertvn",
-    "description": "the first composer package hoang created",
+    "description": "the first composer package haqii created",
     "version": "1.0",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "haqii\\firstpackage\\": "src/"
+            "haqii\\convertvn\\": "src/"
         }
     }
 }
