@@ -7,7 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "haqii\\ConvertVN\\": "src/"
+            "CONVERT_LETTER_VN\\": "src/"
         }
     }
 }

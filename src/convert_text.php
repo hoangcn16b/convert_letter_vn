@@ -1,6 +1,6 @@
 <?php
 
-namespace haqii\ConvertVN;
+namespace CONVERT_LETTER_VN;
 
 class ConvertTextLatin
 {
