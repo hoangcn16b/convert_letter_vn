@@ -7,8 +7,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "haqii\\convert_text_vn\\": "src/"
-        },
-        "autoload-path": "vendor/haqii/convert_text_vn/src"
+            "haqii\\ConvertVN\\": "src/"
+        }
     }
 }
